@@ -2,15 +2,15 @@ let handler =  m => m.reply(`
 ╭─「 🧚🏻‍♂️ *DONASI* 」
 │
 ├ PULSA / OVO / DANA / GOPAY :
-├ • *082337245566*
+├ • *088804947282*
 │
 ├ SAWERIA
-├ _https://saweria.co/clicknetcafe_
+├ _https://saweria.co/humanzboti_
 │
 ├ Ownerku
-├ _wa.me/6282337245566_
+├ _wa.me/6288804947282_
 │
-╰───「 ${packname} 」
+╰───「 HumanzBotzMD 」
 `.trim()) // Tambah sendiri kalo mau
 
 handler.menugroup = ['donasi']
