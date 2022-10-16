@@ -3,7 +3,7 @@
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6288804947282
 
 ╔╣ *PREMIUM USER*
 ║ • Infinity Limit
@@ -28,7 +28,7 @@ wa.me/6282337245566
 
 - Pembayaran via *OVO / Dana / GoPay*
   *( tidak ada opsi lain )*
-  ke nomor 082337245566
+  ke nomor 088804947282
 - Whatsapp Multi Device
 - Run via RDP (Always ON)
 - Request Fitur? *Chat Link Creator di atas.*`
