@@ -1,1 +1,1 @@
-web: node . --db 'mongodb+srv://sayatampan:SayaTampan@cluster0.ebijkhr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+web: npm i ffmpeg && npm i -g pm2 && pm2 start main.js && pm2 save && pm2 logs
